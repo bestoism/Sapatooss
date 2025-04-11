@@ -1,0 +1,48 @@
+Free RN 5.0,Olahraga,40/41/42/43,10/10/10/10,Abu-abu,1.1e+06
+Air Monarch IV,Casual,40/41/42/43,10/10/10/10,Putih,1e+06
+Waffle Racer 2X,Casual,40/41/42/43,10/10/10/10,Hitam,1.1e+06
+Wildhorse 6,Olahraga,40/41/42/43,10/10/10/10,Merah,1.5e+06
+Air Max 270,Casual,40/41/42/43,10/10/10/10,Hitam,1.3e+06
+SB Blazer Low GT,Casual,40/41/42/43,10/10/10/10,Hijau,1.3e+06
+oke gas,Casual,40/42/44/45,10/10/10/10,Hijau,1.5e+06
+Air Zoom Pegasus 37,Olahraga,41/42/43/44,10/10/10/10,Biru,1.4e+06
+ZoomX Vaporfly NEXT%,Olahraga,41/42/43/44,10/10/10/10,Hijau,1.8e+06
+LeBron 18,Olahraga,41/42/43/44,10/10/10/10,Hitam,1.8e+06
+Zoom Freak 2,Olahraga,41/42/43/44,10/10/10/10,Merah,1.6e+06
+Mercurial Superfly 7,Olahraga,41/42/43/44,10/10/10/10,Biru,1.8e+06
+Terra Kiger 6,Olahraga,41/42/43/44,10/10/10/10,Biru,1.4e+06
+Vapor Cage 4,Olahraga,41/42/43/44,10/10/10/10,Merah,1.6e+06
+Joyride Dual Run,Olahraga,41/42/43/44,10/10/10/10,Biru,1.7e+06
+Air Max 200,Casual,41/42/43/44,10/10/10/10,Putih,1.2e+06
+Zoom Pegasus Turbo 2,Olahraga,41/42/43/44,10/10/10/10,Merah,1.7e+06
+Air Max Tailwind IV,Casual,41/42/43/44,10/10/10/10,Merah,1.5e+06
+Air Max 90,Olahraga,42/43/44/45,10/10/10/10,Putih,1.5e+06
+Joyride Run Flyknit,Olahraga,42/43/44/45,10/10/10/10,Hitam,1.6e+06
+KD13,Olahraga,42/43/44/45,10/10/10/10,Biru,1.7e+06
+SB Dunk Low,Casual,42/43/44/45,10/10/10/10,Hijau,1.3e+06
+Phantom GT Elite,Olahraga,42/43/44/45,10/10/10/10,Putih,1.7e+06
+Zoom Winflo 7,Olahraga,42/43/44/45,10/10/10/10,Hijau,1.3e+06
+SB Nyjah Free 2,Olahraga,42/43/44/45,10/10/10/10,Hijau,1.3e+06
+Renew Run,Olahraga,42/43/44/45,10/10/10/10,Putih,1.4e+06
+Revolution 5,Olahraga,42/43/44/45,10/10/10/10,Biru,1e+06
+React Miler,Olahraga,42/43/44/45,10/10/10/10,Hijau,1.3e+06
+Air Zoom Wildhorse 7,Olahraga,42/43/44/45,10/10/10/10,Putih,1.4e+06
+Air Zoom Winflo 6,Olahraga,42/43/44/45,10/10/10/10,Hijau,1.4e+06
+Blazer Mid '77 Vintage,Casual,43/44/45/46,10/10/10/10,Putih,1.3e+06
+Air Force 1 '07,Casual,43/44/45/46,10/10/10/10,Putih,1.2e+06
+Air Max 97,Casual,43/44/45/46,10/10/10/10,Biru,1.5e+06
+Tiempo Legend 8,Olahraga,43/44/45/46,10/10/10/10,Hitam,1.6e+06
+AeroBill Pro 2.0,Casual,43/44/45/46,10/10/10/10,Putih,1e+06
+Court Royale 2,Casual,43/44/45/46,10/10/10/10,Biru,1.1e+06
+Air Zoom Structure 23,Olahraga,43/44/45/46,10/10/10/10,Merah,1.5e+06
+VaporMax Flyknit 3,Casual,43/44/45/46,10/10/10/10,Hitam,1.6e+06
+Air Max Dia,Casual,43/44/45/46,10/10/10/10,Biru,1.1e+06
+Mamba Focus,Olahraga,43/44/45/46,10/10/10/10,Biru,1.6e+06
+React Infinity Run Flyknit,Olahraga,44/45/46/47,10/10/10/10,Merah,1.7e+06
+Air Jordan 1 Mid,Casual,44/45/46/47,10/10/10/10,Merah,1.5e+06
+Metcon 6,Olahraga,44/45/46/47,10/10/10/10,Abu-abu,1.4e+06
+React Vision,Casual,44/45/46/47,10/10/10/10,Abu-abu,1.4e+06
+React Element 55,Casual,44/45/46/47,10/10/10/10,Hitam,1.2e+06
+SuperRep Go,Olahraga,44/45/46/47,10/10/10/10,Abu-abu,1.5e+06
+Air Max Plus,Casual,44/45/46/47,10/10/10/10,Abu-abu,1.4e+06
+Air Zoom Terra Kiger 5,Olahraga,44/45/46/47,10/10/10/10,Abu-abu,1.7e+06
